@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>INV_INMUEBLES_TIJUANA_AGREGADO.kmz</name>
-	<open>1</open>
+	<name>INV_INMUEBLES_TIJUANA_AGREGADO</name>
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin030</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="m_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
@@ -22,6 +11,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl500</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="s_ylw-pushpin03">
@@ -51,7 +50,19 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
-	<Style id="s_ylw-pushpin_hl5">
+	<Style id="s_ylw-pushpin_hl50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl500">
 		<IconStyle>
 			<color>ffff0000</color>
 			<scale>1.3</scale>
@@ -65,18 +76,6 @@
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl50">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
 	</Style>
 	<Folder>
 		<name>PENDIENTES</name>
@@ -5802,78 +5801,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0628017837111,32.44339854788977,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="1432C2877F4C394F7F9629">
-			<name>KC056001</name>
-			<description>BLVD. PASEO DEL CEDRO 10453 0 URBIQUINTA DEL CEDRO</description>
-			<LookAt>
-				<longitude>-117.0687051827026</longitude>
-				<latitude>32.43359395284858</latitude>
-				<altitude>0</altitude>
-				<heading>1.173762568817983e-05</heading>
-				<tilt>28.70217031669151</tilt>
-				<range>86.48575775583322</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0687357318856,32.43355507452385,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="144909022232394F7F9629">
-			<name>KC057007</name>
-			<description>BLVD. PASEO DEL CEDRO 11002 0 URBIQUINTA DEL CEDRO</description>
-			<LookAt>
-				<longitude>-117.0687071203425</longitude>
-				<latitude>32.43364580694123</latitude>
-				<altitude>0</altitude>
-				<heading>-1.484563144027588e-06</heading>
-				<tilt>29.86472725555215</tilt>
-				<range>82.49311210825276</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0687363406048,32.43355404015951,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="1453C0928E53394F7F9629">
-			<name>KC058001</name>
-			<description>BLVD. PASEO DEL CEDRO 10632 0 URBIQUINTA DEL CEDRO</description>
-			<LookAt>
-				<longitude>-117.0687129878374</longitude>
-				<latitude>32.43367567350633</latitude>
-				<altitude>0</altitude>
-				<heading>-3.657377649108731e-06</heading>
-				<tilt>29.53709171749214</tilt>
-				<range>108.0811173139712</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0687370641534,32.43355429782463,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="1467B6B507F8394F7F9629">
-			<name>KC063002</name>
-			<description>BLVD. PASEO DEL CEDRO 10603 0 URBIQUINTA DEL CEDRO</description>
-			<LookAt>
-				<longitude>-117.0680358953213</longitude>
-				<latitude>32.43465816876964</latitude>
-				<altitude>0</altitude>
-				<heading>28.30911003701539</heading>
-				<tilt>84.69658226236373</tilt>
-				<range>195.6583275642097</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0687390534757,32.43355207693041,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="1472E495E364394F7F9629">
@@ -14825,6 +14752,82 @@
 	</Folder>
 	<Folder>
 		<name>HECHOS</name>
+		<Placemark id="1467B6B507F8394F7F9629">
+			<name>KC063002</name>
+			<open>1</open>
+			<description>BLVD. PASEO DEL CEDRO 10603 0 URBIQUINTA DEL CEDRO</description>
+			<LookAt>
+				<longitude>-117.0680358953213</longitude>
+				<latitude>32.43465816876964</latitude>
+				<altitude>0</altitude>
+				<heading>28.30911003701539</heading>
+				<tilt>84.69658226236373</tilt>
+				<range>195.6583275642097</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0687390534757,32.43355207693041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="144909022232394F7F9629">
+			<name>KC057007</name>
+			<open>1</open>
+			<description>BLVD. PASEO DEL CEDRO 11002 0 URBIQUINTA DEL CEDRO</description>
+			<LookAt>
+				<longitude>-117.0687071203425</longitude>
+				<latitude>32.43364580694123</latitude>
+				<altitude>0</altitude>
+				<heading>-1.484563144027588e-06</heading>
+				<tilt>29.86472725555215</tilt>
+				<range>82.49311210825276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0687363406048,32.43355404015951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1432C2877F4C394F7F9629">
+			<name>KC056001</name>
+			<open>1</open>
+			<description>BLVD. PASEO DEL CEDRO 10453 0 URBIQUINTA DEL CEDRO</description>
+			<LookAt>
+				<longitude>-117.0687051827026</longitude>
+				<latitude>32.43359395284858</latitude>
+				<altitude>0</altitude>
+				<heading>1.173762568817983e-05</heading>
+				<tilt>28.70217031669151</tilt>
+				<range>86.48575775583322</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0687357318856,32.43355507452385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1453C0928E53394F7F9629">
+			<name>KC058001</name>
+			<open>1</open>
+			<description>BLVD. PASEO DEL CEDRO 10632 0 URBIQUINTA DEL CEDRO</description>
+			<LookAt>
+				<longitude>-117.0687129878374</longitude>
+				<latitude>32.43367567350633</latitude>
+				<altitude>0</altitude>
+				<heading>-3.657377649108731e-06</heading>
+				<tilt>29.53709171749214</tilt>
+				<range>108.0811173139712</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0687370641534,32.43355429782463,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="1BD30419D66B394F7F9629">
 			<name>KD102001</name>
 			<open>1</open>
@@ -14838,7 +14841,7 @@
 				<range>167.6571632164844</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0920959055157,32.41220136683975,0</coordinates>
@@ -14857,7 +14860,7 @@
 				<range>180.4256446000174</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0859876017096,32.41922550244237,0</coordinates>
@@ -14876,7 +14879,7 @@
 				<range>405.3883322108803</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0932672508804,32.42230212306059,0</coordinates>
@@ -14895,7 +14898,7 @@
 				<range>243.9604415418934</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0932706486687,32.42232249864846,0</coordinates>
@@ -14914,7 +14917,7 @@
 				<range>1000.000000000427</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0948374999999,32.42282780000001,0</coordinates>
@@ -14933,7 +14936,7 @@
 				<range>146.3489272314365</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0497771885601,32.45031094806365,0</coordinates>
@@ -14952,7 +14955,7 @@
 				<range>141.8310206228354</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0757389265574,32.51037397578624,0</coordinates>
@@ -14971,7 +14974,7 @@
 				<roll>1.984859049636131</roll>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</Camera>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0679648848077,32.49633093307197,0</coordinates>
@@ -14990,7 +14993,7 @@
 				<range>99.51951710888632</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.066389847797,32.48826617090788,0</coordinates>
@@ -15009,7 +15012,7 @@
 				<range>92.55283252565877</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0540793143872,32.48661918778947,0</coordinates>
@@ -15028,7 +15031,7 @@
 				<range>358.3159926747039</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0317394455393,32.48100213739419,0</coordinates>
@@ -15047,7 +15050,7 @@
 				<range>100.935292919049</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0474328407848,32.38508463934486,0</coordinates>
@@ -15066,7 +15069,7 @@
 				<range>96.66566763199643</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0397810232304,32.43825739728992,0</coordinates>
@@ -15085,7 +15088,7 @@
 				<range>124.2457242644186</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0421311894452,32.44484053146653,0</coordinates>
