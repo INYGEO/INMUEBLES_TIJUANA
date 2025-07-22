@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>INV_INMUEBLES_TIJUANA_AGREGADO</name>
+	<open>1</open>
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
 	<StyleMap id="m_ylw-pushpin0">
 		<Pair>
@@ -1807,24 +1808,6 @@
 				<coordinates>-117.0839692960481,32.48881251518919,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="6021F619EF9394F7F9629">
-			<name>ZT383006</name>
-			<description>BLVD. DON ALBERTO 5105 LAS VILLAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0564331669872</longitude>
-				<latitude>32.44004393275027</latitude>
-				<altitude>0</altitude>
-				<heading>-1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>94.10932093764617</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0565800408096,32.43997500022951,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="614AF41378F394F7F9629">
 			<name>ZT381007</name>
 			<description>BLVD. DON ALBERTO 5184 LAS VILLAS SANTA FE</description>
@@ -2923,96 +2906,6 @@
 				<coordinates>-117.1060292677557,32.53181995756196,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="9F823256BC0394F7F9629">
-			<name>KC045001</name>
-			<description>BLVD. REAL DEL MAR 4162 LOMAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0614466725336</longitude>
-				<latitude>32.44623466409963</latitude>
-				<altitude>0</altitude>
-				<heading>4.770832022195274e-15</heading>
-				<tilt>0</tilt>
-				<range>177.3658886073634</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0616641315477,32.44605697673146,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="A05A2A69B1F394F7F9629">
-			<name>KC049001</name>
-			<description>BLVD. REAL DEL MAR 4301 LOMAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0614466725336</longitude>
-				<latitude>32.44623466409963</latitude>
-				<altitude>0</altitude>
-				<heading>4.770832022195274e-15</heading>
-				<tilt>0</tilt>
-				<range>177.3658886073634</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0616641315477,32.44605697673146,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="A17378DD1FC394F7F9629">
-			<name>KC045002</name>
-			<description>BLVD. REAL DEL MAR 4204 LOMAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0614466725336</longitude>
-				<latitude>32.44623466409963</latitude>
-				<altitude>0</altitude>
-				<heading>4.770832022195274e-15</heading>
-				<tilt>0</tilt>
-				<range>177.3658886073634</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0616641315477,32.44605697673146,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="A211C0AF2FD394F7F9629">
-			<name>KC122002</name>
-			<description>BLVD. REAL DEL MAR 4452 VIÑAS DEL MAR</description>
-			<LookAt>
-				<longitude>-117.0585579846231</longitude>
-				<latitude>32.44703599783647</latitude>
-				<altitude>0</altitude>
-				<heading>1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>88.15761839220686</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.058445094185,32.44704555342788,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="A3AB3E32BAE394F7F9629">
-			<name>KC123002</name>
-			<description>BLVD. REAL DEL MAR 4452 VIÑAS DEL MAR</description>
-			<LookAt>
-				<longitude>-117.0585579846231</longitude>
-				<latitude>32.44703599783647</latitude>
-				<altitude>0</altitude>
-				<heading>1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>88.15761839220686</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.058445094185,32.44704555342788,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="A44F6E4BB90394F7F9629">
 			<name>ZT722004</name>
 			<description>BLVD. SIENA SIENA RESIDENCIAL</description>
@@ -3301,81 +3194,9 @@
 				<coordinates>-117.0302026742406,32.44784381232962,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="B54C365D949394F7F9629">
-			<name>KC123012</name>
-			<description>BLVD. VIÑAS DEL MAR 0 VIÑAS DEL MAR</description>
-			<LookAt>
-				<longitude>-117.068424715953</longitude>
-				<latitude>32.45115779322673</latitude>
-				<altitude>0</altitude>
-				<heading>4.770832022195274e-15</heading>
-				<tilt>0</tilt>
-				<range>121.3052360630917</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0685460642451,32.45110798785986,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="B66E68F7BF2394F7F9629">
-			<name>KC123014</name>
-			<description>BLVD. VIÑAS DEL MAR 0 VIÑAS DEL MAR</description>
-			<LookAt>
-				<longitude>-117.068424715953</longitude>
-				<latitude>32.45115779322673</latitude>
-				<altitude>0</altitude>
-				<heading>4.770832022195274e-15</heading>
-				<tilt>0</tilt>
-				<range>121.3052360630917</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0685460642451,32.45110798785986,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="B7C2623DDDD394F7F9629">
-			<name>KC123007</name>
-			<description>BLVD. VIÑAS DEL MAR 4201 VIÑAS DEL MAR</description>
-			<LookAt>
-				<longitude>-117.0646447910925</longitude>
-				<latitude>32.44972453083366</latitude>
-				<altitude>0</altitude>
-				<heading>-1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>93.2360428686965</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0647148325526,32.44967216281528,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="B8ABE62263F394F7F9629">
 			<name>KC123005</name>
 			<description>BLVD. VIÑAS DEL MAR 4481 VIÑAS DEL MAR</description>
-			<LookAt>
-				<longitude>-117.0584165095618</longitude>
-				<latitude>32.4469224765969</latitude>
-				<altitude>0</altitude>
-				<heading>-1.272221872585407e-14</heading>
-				<tilt>0</tilt>
-				<range>114.9926780396423</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0585127392755,32.44686317639696,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="B96F95BDB17394F7F9629">
-			<name>KC124003</name>
-			<description>BLVD. VIÑAS DEL MAR 4482 VIÑAS DEL MAR</description>
 			<LookAt>
 				<longitude>-117.0584165095618</longitude>
 				<latitude>32.4469224765969</latitude>
@@ -3443,78 +3264,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0370982599468,32.53989736156032,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="BD3AC83ED3F394F7F9629">
-			<name>KC041002</name>
-			<description>C. DEL AHUEHUETE 4100 LOMAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0668106924812</longitude>
-				<latitude>32.44398151557452</latitude>
-				<altitude>0</altitude>
-				<heading>-1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>164.9601599074042</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="BE9337814FF394F7F9629">
-			<name>KC040006</name>
-			<description>C. DEL AHUEHUETE 4101 LOMAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0668106924812</longitude>
-				<latitude>32.44398151557452</latitude>
-				<altitude>0</altitude>
-				<heading>-1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>164.9601599074042</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="BF953CDB611394F7F9629">
-			<name>KC040005</name>
-			<description>C. DEL AHUEHUETE 4103 LOMAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0668106924812</longitude>
-				<latitude>32.44398151557452</latitude>
-				<altitude>0</altitude>
-				<heading>-1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>164.9601599074042</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="C00636C648A394F7F9629">
-			<name>KC040002</name>
-			<description>C. DEL AHUEHUETE 4201 LOMAS SANTA FE</description>
-			<LookAt>
-				<longitude>-117.0668106924812</longitude>
-				<latitude>32.44398151557452</latitude>
-				<altitude>0</altitude>
-				<heading>-1.590277340731758e-15</heading>
-				<tilt>0</tilt>
-				<range>164.9601599074042</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="C11A759D1BE394F7F9629">
@@ -4019,24 +3768,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-116.9670188639109,32.43835678282309,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="DD69EEB7992394F7F9629">
-			<name>KC124007</name>
-			<description>C. JEREZ 0 VIÑAS DEL MAR</description>
-			<LookAt>
-				<longitude>-117.0590750585381</longitude>
-				<latitude>32.44759752919329</latitude>
-				<altitude>0</altitude>
-				<heading>-3.180554681463516e-15</heading>
-				<tilt>0</tilt>
-				<range>158.6566834508795</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.05947578938,32.44753903128261,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="DE25F02C4C4394F7F9629">
@@ -5783,24 +5514,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0948374999999,32.42282780000001,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="1423465FA296394F7F9629">
-			<name>KC052001</name>
-			<description>C. DEL AHUEHUETE 4332 0 URBIQUINTA DEL CEDRO</description>
-			<LookAt>
-				<longitude>-117.0628641510839</longitude>
-				<latitude>32.44342801367053</latitude>
-				<altitude>0</altitude>
-				<heading>-8.00660901466416e-05</heading>
-				<tilt>25.03283209166106</tilt>
-				<range>233.621135828799</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.0628017837111,32.44339854788977,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="1472E495E364394F7F9629">
@@ -7835,24 +7548,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-116.9437896906612,32.53684770488272,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="1B9200A4BB32394F7F9629">
-			<name>KC106001</name>
-			<description>BLVD. PASEO DEL ALAMO 0 0 URBIQUINTA DEL CEDRO SEGUNDA SECCION</description>
-			<LookAt>
-				<longitude>-117.0582274945731</longitude>
-				<latitude>32.44108596798191</latitude>
-				<altitude>0</altitude>
-				<heading>5.806070682135296e-05</heading>
-				<tilt>25.19692448495796</tilt>
-				<range>228.1112760747655</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-117.058619992676,32.44076191630477,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="1BAC81AC6D62394F7F9629">
@@ -14752,6 +14447,139 @@
 	</Folder>
 	<Folder>
 		<name>HECHOS</name>
+		<Placemark id="BF953CDB611394F7F9629">
+			<name>KC040005</name>
+			<open>1</open>
+			<description>C. DEL AHUEHUETE 4103 LOMAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0668106924812</longitude>
+				<latitude>32.44398151557452</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>164.9601599074042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="BD3AC83ED3F394F7F9629">
+			<name>KC041002</name>
+			<open>1</open>
+			<description>C. DEL AHUEHUETE 4100 LOMAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0668106924812</longitude>
+				<latitude>32.44398151557452</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>164.9601599074042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="C00636C648A394F7F9629">
+			<name>KC040002</name>
+			<open>1</open>
+			<description>C. DEL AHUEHUETE 4201 LOMAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0668106924812</longitude>
+				<latitude>32.44398151557452</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>164.9601599074042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1423465FA296394F7F9629">
+			<name>KC052001</name>
+			<open>1</open>
+			<description>C. DEL AHUEHUETE 4332 0 URBIQUINTA DEL CEDRO</description>
+			<LookAt>
+				<longitude>-117.0628641510839</longitude>
+				<latitude>32.44342801367053</latitude>
+				<altitude>0</altitude>
+				<heading>-8.00660901466416e-05</heading>
+				<tilt>25.03283209166106</tilt>
+				<range>233.621135828799</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0628017837111,32.44339854788977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="9F823256BC0394F7F9629">
+			<name>KC045001</name>
+			<open>1</open>
+			<description>BLVD. REAL DEL MAR 4162 LOMAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0614466725336</longitude>
+				<latitude>32.44623466409963</latitude>
+				<altitude>0</altitude>
+				<heading>4.770832022195274e-15</heading>
+				<tilt>0</tilt>
+				<range>177.3658886073634</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0616641315477,32.44605697673146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6021F619EF9394F7F9629">
+			<name>ZT383006</name>
+			<open>1</open>
+			<description>BLVD. DON ALBERTO 5105 LAS VILLAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0564331669872</longitude>
+				<latitude>32.44004393275027</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>94.10932093764617</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0565800408096,32.43997500022951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1B9200A4BB32394F7F9629">
+			<name>KC106001</name>
+			<open>1</open>
+			<description>BLVD. PASEO DEL ALAMO 0 0 URBIQUINTA DEL CEDRO SEGUNDA SECCION</description>
+			<LookAt>
+				<longitude>-117.0582274945731</longitude>
+				<latitude>32.44108596798191</latitude>
+				<altitude>0</altitude>
+				<heading>5.806070682135296e-05</heading>
+				<tilt>25.19692448495796</tilt>
+				<range>228.1112760747655</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.058619992676,32.44076191630477,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="1467B6B507F8394F7F9629">
 			<name>KC063002</name>
 			<open>1</open>
@@ -14999,6 +14827,25 @@
 				<coordinates>-117.066389847797,32.48826617090788,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark id="A211C0AF2FD394F7F9629">
+			<name>KC122002</name>
+			<open>1</open>
+			<description>BLVD. REAL DEL MAR 4452 VIÑAS DEL MAR</description>
+			<LookAt>
+				<longitude>-117.0585579846231</longitude>
+				<latitude>32.44703599783647</latitude>
+				<altitude>0</altitude>
+				<heading>1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>88.15761839220686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.058445094185,32.44704555342788,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="150C4237DAA3394F7F9629">
 			<name>NA255001</name>
 			<open>1</open>
@@ -15035,6 +14882,25 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0317394455393,32.48100213739419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="A05A2A69B1F394F7F9629">
+			<name>KC049001</name>
+			<open>1</open>
+			<description>BLVD. REAL DEL MAR 4301 LOMAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0614466725336</longitude>
+				<latitude>32.44623466409963</latitude>
+				<altitude>0</altitude>
+				<heading>4.770832022195274e-15</heading>
+				<tilt>0</tilt>
+				<range>177.3658886073634</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0616641315477,32.44605697673146,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="222BAB7981A6394F7F9629">
@@ -15075,6 +14941,63 @@
 				<coordinates>-117.0397810232304,32.43825739728992,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark id="A17378DD1FC394F7F9629">
+			<name>KC045002</name>
+			<open>1</open>
+			<description>BLVD. REAL DEL MAR 4204 LOMAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0614466725336</longitude>
+				<latitude>32.44623466409963</latitude>
+				<altitude>0</altitude>
+				<heading>4.770832022195274e-15</heading>
+				<tilt>0</tilt>
+				<range>177.3658886073634</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0616641315477,32.44605697673146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="A3AB3E32BAE394F7F9629">
+			<name>KC123002</name>
+			<open>1</open>
+			<description>BLVD. REAL DEL MAR 4452 VIÑAS DEL MAR</description>
+			<LookAt>
+				<longitude>-117.0585579846231</longitude>
+				<latitude>32.44703599783647</latitude>
+				<altitude>0</altitude>
+				<heading>1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>88.15761839220686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.058445094185,32.44704555342788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="B96F95BDB17394F7F9629">
+			<name>KC124003</name>
+			<open>1</open>
+			<description>BLVD. VIÑAS DEL MAR 4482 VIÑAS DEL MAR</description>
+			<LookAt>
+				<longitude>-117.0584165095618</longitude>
+				<latitude>32.4469224765969</latitude>
+				<altitude>0</altitude>
+				<heading>-1.272221872585407e-14</heading>
+				<tilt>0</tilt>
+				<range>114.9926780396423</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0585127392755,32.44686317639696,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="809415602D9394F7F9629">
 			<name>XL508023</name>
 			<open>1</open>
@@ -15092,6 +15015,101 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-117.0421311894452,32.44484053146653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="B7C2623DDDD394F7F9629">
+			<name>KC123007</name>
+			<open>1</open>
+			<description>BLVD. VIÑAS DEL MAR 4201 VIÑAS DEL MAR</description>
+			<LookAt>
+				<longitude>-117.0646447910925</longitude>
+				<latitude>32.44972453083366</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>93.2360428686965</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0647148325526,32.44967216281528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="B66E68F7BF2394F7F9629">
+			<name>KC123014</name>
+			<open>1</open>
+			<description>BLVD. VIÑAS DEL MAR 0 VIÑAS DEL MAR</description>
+			<LookAt>
+				<longitude>-117.068424715953</longitude>
+				<latitude>32.45115779322673</latitude>
+				<altitude>0</altitude>
+				<heading>4.770832022195274e-15</heading>
+				<tilt>0</tilt>
+				<range>121.3052360630917</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0685460642451,32.45110798785986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="DD69EEB7992394F7F9629">
+			<name>KC124007</name>
+			<open>1</open>
+			<description>C. JEREZ 0 VIÑAS DEL MAR</description>
+			<LookAt>
+				<longitude>-117.0590750585381</longitude>
+				<latitude>32.44759752919329</latitude>
+				<altitude>0</altitude>
+				<heading>-3.180554681463516e-15</heading>
+				<tilt>0</tilt>
+				<range>158.6566834508795</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.05947578938,32.44753903128261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="BE9337814FF394F7F9629">
+			<name>KC040006</name>
+			<open>1</open>
+			<description>C. DEL AHUEHUETE 4101 LOMAS SANTA FE</description>
+			<LookAt>
+				<longitude>-117.0668106924812</longitude>
+				<latitude>32.44398151557452</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>164.9601599074042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0673763349064,32.4439430441468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="B54C365D949394F7F9629">
+			<name>KC123012</name>
+			<open>1</open>
+			<description>BLVD. VIÑAS DEL MAR 0 VIÑAS DEL MAR</description>
+			<LookAt>
+				<longitude>-117.068424715953</longitude>
+				<latitude>32.45115779322673</latitude>
+				<altitude>0</altitude>
+				<heading>4.770832022195274e-15</heading>
+				<tilt>0</tilt>
+				<range>121.3052360630917</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-117.0685460642451,32.45110798785986,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
