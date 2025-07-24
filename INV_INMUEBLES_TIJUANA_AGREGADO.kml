@@ -6,16 +6,18 @@
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
 	<Style id="IconStyle00">
 		<IconStyle>
-			<color>ff00ffff</color>
+			<color>ffff0000</color>
 			<scale>1.1</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.8</scale>
 		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -23,10 +25,10 @@
 	</Style>
 	<Style id="IconStyle000">
 		<IconStyle>
-			<color>ffff0000</color>
-			<scale>1.3</scale>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
 			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
@@ -55,10 +57,10 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<Style id="IconStyle001">
+	<Style id="IconStyle00000">
 		<IconStyle>
 			<color>ffff0000</color>
-			<scale>1.1</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
 			</Icon>
@@ -67,6 +69,8 @@
 		<LabelStyle>
 			<scale>0.8</scale>
 		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -75,7 +79,7 @@
 	<StyleMap id="IconStyle004">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#IconStyle00</styleUrl>
+			<styleUrl>#IconStyle000</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -85,11 +89,11 @@
 	<StyleMap id="IconStyle0040">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#IconStyle001</styleUrl>
+			<styleUrl>#IconStyle00</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Folder>
@@ -718,32 +722,6 @@
 				<coordinates>-116.8689378669999,32.46197460000008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00027">
-			<name>PM101121</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. GENERAL ADOLFO RUIZ CORTINEZ 0 LEANDRO VALLE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-117.000199149,32.45907896000006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00028">
 			<name>FD536993</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1184,58 +1162,6 @@
 			<styleUrl>#IconStyle004</styleUrl>
 			<Point>
 				<coordinates>-116.9353099,32.38038840000007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00045">
-			<name>SU402021</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DEL AGUILA 18522 0 HACIENDA LOS VENADOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.9201392,32.41217340000003,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00046">
-			<name>SU402027</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DEL SEMILLERO 15006 0 HACIENDA LOS VENADOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.92139976,32.41414415400004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00047">
@@ -7894,84 +7820,6 @@
 				<coordinates>-116.964683246,32.41171741600004,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00326">
-			<name>SZ052002</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DE LOS PUERTOS 0 0 URBIVILLA DEL PRADO SEGUNDA SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.965957825,32.42847047200007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00327">
-			<name>SZ056001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. DE LOS VOLCANES 0 0 URBIVILLA DEL PRADO SEGUNDA SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.965132754,32.42508337400005,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00328">
-			<name>SZ067001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DEL ABETO 0 URBIVILLA DEL PRADO SEGUNDA SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.96471278,32.41169564700004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00329">
 			<name>TC451021</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -10650,32 +10498,6 @@
 				<coordinates>-117.015574574,32.48606333500004,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00436">
-			<name>MV116005</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. ACUEDUCTO 8671 INFONAVIT LATINOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.956094018,32.46779282400007,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00437">
 			<name>TJ020384</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -11170,58 +10992,6 @@
 				<coordinates>-116.999182283,32.49630987800003,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00456">
-			<name>PZ062155</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PDA. GLORIA 0 TERRAZAS DE LA PRESA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.9222134999999,32.44779232000008,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00457">
-			<name>CM037001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. SONORA 8878 CAMPOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.944177736,32.46808936300005,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00458">
 			<name>HT098007</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -11638,32 +11408,6 @@
 				<coordinates>-116.839160753,32.46775124600003,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00474">
-			<name>PZ151003</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. COLINA SAN PEDRO 17532 0 COLINAS DE LA PRESA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.932726174,32.44069901400007,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00475">
 			<name>VC102039</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -11714,32 +11458,6 @@
 			<styleUrl>#IconStyle004</styleUrl>
 			<Point>
 				<coordinates>-116.943632395,32.40425037000006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00477">
-			<name>SU317002</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. ARROYO DEL CAMPO 15030 0 HACIENDA LAS DELICIAS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.940471252,32.40655056400004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00478">
@@ -13742,32 +13460,6 @@
 			<styleUrl>#IconStyle004</styleUrl>
 			<Point>
 				<coordinates>-116.890636729,32.49985446000005,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00555">
-			<name>SH819004</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. CONSTRUCTORES 0 SANCHEZ TABOADA (PRODUTSA)</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.966979922,32.46252304600006,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00556">
@@ -19672,58 +19364,6 @@
 				<coordinates>-116.94234576,32.51261071500005,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00788">
-			<name>MV122009</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. COLOMBIANOS 15945 INFONAVIT LATINOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.957143168,32.47089601300007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00789">
-			<name>LW006303</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. LAGUNA MAGICA 8106 LAGUNITAS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.998578454,32.45245489700005,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00790">
 			<name>ID004045</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19958,32 +19598,6 @@
 				<coordinates>-117.0435622209999,32.52646830300006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00801">
-			<name>PP021045</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;"></td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.973518714,32.45019952900003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00802">
 			<name>AI064004</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -20034,32 +19648,6 @@
 			<styleUrl>#IconStyle004</styleUrl>
 			<Point>
 				<coordinates>-116.935229955,32.38761452400007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00807">
-			<name>SU404017</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DEL FLAMENCO 15223 0 HACIENDA LOS VENADOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.925907217,32.41180435400003,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00808">
@@ -20374,32 +19962,6 @@
 				<coordinates>-116.8965094599999,32.50146605000003,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00830">
-			<name>PZ102001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. BENITO JUAREZ 11081 PRESA RODRIGUEZ</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
-			<Point>
-				<coordinates>-116.914964839,32.44981154700002,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00832">
 			<name>VV124037</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -20429,6 +19991,60 @@
 	</Folder>
 	<Folder>
 		<name>HECHOS</name>
+		<Placemark id="ID_00830">
+			<name>PZ102001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. BENITO JUAREZ 11081 PRESA RODRIGUEZ</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.914964839,32.44981154700002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00457">
+			<name>CM037001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. SONORA 8878 CAMPOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.944177736,32.46808936300005,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="ID_00806">
 			<name>TC421003</name>
 			<open>1</open>
@@ -21804,6 +21420,411 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.0497771889999,32.45031094800004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00789">
+			<name>LW006303</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. LAGUNA MAGICA 8106 LAGUNITAS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.998578454,32.45245489700005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00436">
+			<name>MV116005</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. ACUEDUCTO 8671 INFONAVIT LATINOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.956094018,32.46779282400007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00788">
+			<name>MV122009</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. COLOMBIANOS 15945 INFONAVIT LATINOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.957143168,32.47089601300007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>PM101121</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. GENERAL ADOLFO RUIZ CORTINEZ 0 LEANDRO VALLE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-117.000199149,32.45907896000006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00801">
+			<name>PP021045</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;"></td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.973518714,32.45019952900003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00456">
+			<name>PZ062155</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PDA. GLORIA 0 TERRAZAS DE LA PRESA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.9222134999999,32.44779232000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00474">
+			<name>PZ151003</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. COLINA SAN PEDRO 17532 0 COLINAS DE LA PRESA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.932726174,32.44069901400007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00555">
+			<name>SH819004</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. CONSTRUCTORES 0 SANCHEZ TABOADA (PRODUTSA)</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.966979922,32.46252304600006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00477">
+			<name>SU317002</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. ARROYO DEL CAMPO 15030 0 HACIENDA LAS DELICIAS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.940471252,32.40655056400004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>SU402021</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DEL AGUILA 18522 0 HACIENDA LOS VENADOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.9201392,32.41217340000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>SU402027</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DEL SEMILLERO 15006 0 HACIENDA LOS VENADOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.92139976,32.41414415400004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00807">
+			<name>SU404017</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DEL FLAMENCO 15223 0 HACIENDA LOS VENADOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.925907217,32.41180435400003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00326">
+			<name>SZ052002</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DE LOS PUERTOS 0 0 URBIVILLA DEL PRADO SEGUNDA SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.965957825,32.42847047200007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00327">
+			<name>SZ056001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. DE LOS VOLCANES 0 0 URBIVILLA DEL PRADO SEGUNDA SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.965132754,32.42508337400005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00328">
+			<name>SZ067001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DEL ABETO 0 URBIVILLA DEL PRADO SEGUNDA SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.96471278,32.41169564700004,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
