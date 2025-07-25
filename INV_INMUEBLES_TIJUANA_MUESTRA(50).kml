@@ -5,7 +5,27 @@
 	<open>1</open>
 	<Snippet maxLines="0"></Snippet>
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
-	<Style id="IconStyle00">
+	<StyleMap id="IconStyle0000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle0011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle0010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="IconStyle00000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle00100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle001">
 		<IconStyle>
 			<color>ffff0000</color>
 			<scale>1.1</scale>
@@ -24,7 +44,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<Style id="IconStyle001">
+	<Style id="IconStyle0011">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -40,26 +60,6 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="IconStyle000">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#IconStyle00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#IconStyle00100</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="IconStyle0000">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#IconStyle001</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#IconStyle0010</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="IconStyle0010">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -255,32 +255,6 @@
 				<coordinates>-116.934803326,32.52802116700008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00012">
-			<name>FD900095</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. LOMAS VIRREYES 0 LOMAS VIRREYES</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.8889566779999,32.45943612700006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00013">
 			<name>MP155010</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -357,32 +331,6 @@
 			<styleUrl>#IconStyle0000</styleUrl>
 			<Point>
 				<coordinates>-117.107182237,32.53241113600006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00021">
-			<name>SU289001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. DELICIAS SUR 15901 0 HACIENDA LAS DELICIAS III</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.935229955,32.38761452400007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00025">
@@ -671,32 +619,6 @@
 				<coordinates>-116.921674573,32.51015038700007,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00040">
-			<name>HT105013</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. MONTE PARNASO 15301 LOMAS CONJUNTO RESIDENCIAL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.960211768,32.48473305800007,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00041">
 			<name>FT602006</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -857,6 +779,87 @@
 	<Folder>
 		<name>HECHOS</name>
 		<open>1</open>
+		<Placemark id="ID_00021">
+			<name>SU289001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. DELICIAS SUR 15901 0 HACIENDA LAS DELICIAS III</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.935229955,32.38761452400007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>HT105013</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. MONTE PARNASO 15301 LOMAS CONJUNTO RESIDENCIAL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.960211768,32.48473305800007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>FD900095</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. LOMAS VIRREYES 0 LOMAS VIRREYES</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.8889566779999,32.45943612700006,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="ID_00007">
 			<name>PZ102001</name>
 			<open>1</open>
@@ -879,7 +882,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.914964839,32.44981154700002,0</coordinates>
 			</Point>
@@ -906,7 +909,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.973518714,32.45019952900003,0</coordinates>
 			</Point>
@@ -933,7 +936,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.957143168,32.47089601300007,0</coordinates>
 			</Point>
@@ -960,7 +963,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.998578454,32.45245489700005,0</coordinates>
 			</Point>
@@ -987,7 +990,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.00723677,32.46891151200003,0</coordinates>
 			</Point>
@@ -1014,7 +1017,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.064168169,32.43855766900003,0</coordinates>
 			</Point>
@@ -1041,7 +1044,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.031451298,32.48062077700007,0</coordinates>
 			</Point>
@@ -1068,7 +1071,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.0759941219999,32.51044951300003,0</coordinates>
 			</Point>
@@ -1095,7 +1098,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.066000615,32.48866537600003,0</coordinates>
 			</Point>
@@ -1122,7 +1125,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.053547773,32.48623039500006,0</coordinates>
 			</Point>
@@ -1149,7 +1152,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.068176996,32.45045449400004,0</coordinates>
 			</Point>
@@ -1176,7 +1179,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.069077287,32.49713344800006,0</coordinates>
 			</Point>
@@ -1203,7 +1206,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.99945726,32.47267400700002,0</coordinates>
 			</Point>
@@ -1230,7 +1233,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.986149348,32.43874465400006,0</coordinates>
 			</Point>
@@ -1257,7 +1260,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.983351668,32.43814891700003,0</coordinates>
 			</Point>
@@ -1284,7 +1287,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.0419909829999,32.44493596800004,0</coordinates>
 			</Point>
@@ -1311,7 +1314,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-116.9883884179999,32.48196523800004,0</coordinates>
 			</Point>
@@ -1338,7 +1341,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.041485987,32.43264530600004,0</coordinates>
 			</Point>
@@ -1365,7 +1368,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.050390728,32.44208640300008,0</coordinates>
 			</Point>
@@ -1392,7 +1395,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 			<Point>
 				<coordinates>-117.0508245619999,32.45108515300007,0</coordinates>
 			</Point>
