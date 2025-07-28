@@ -8,7 +8,7 @@
 	<StyleMap id="IconStyle0000">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#IconStyle0011</styleUrl>
+			<styleUrl>#IconStyle00110</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -18,48 +18,13 @@
 	<StyleMap id="IconStyle00000">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#IconStyle001</styleUrl>
+			<styleUrl>#IconStyle0011</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#IconStyle00100</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="IconStyle001">
-		<IconStyle>
-			<color>ffff0000</color>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.8</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-		<PolyStyle>
-			<color>ff000000</color>
-			<outline>0</outline>
-		</PolyStyle>
-	</Style>
-	<Style id="IconStyle0011">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.8</scale>
-		</LabelStyle>
-		<PolyStyle>
-			<color>ff000000</color>
-			<outline>0</outline>
-		</PolyStyle>
-	</Style>
 	<Style id="IconStyle0010">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -90,6 +55,41 @@
 		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0011">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle00110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -151,32 +151,6 @@
 				<coordinates>-117.107146438,32.51365734100006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00006">
-			<name>GY411012</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. MISION DE LORETO 0 LAS MISIONES</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.8965094599999,32.50146605000003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00009">
 			<name>VV124037</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -201,32 +175,6 @@
 			<styleUrl>#IconStyle0000</styleUrl>
 			<Point>
 				<coordinates>-116.944433911,32.51992205600004,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00010">
-			<name>MN008010</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. EJERCITO TRIGARANTE 8237 MARIANO MATAMOROS NORTE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.8836599539999,32.49082486600003,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00011">
@@ -279,32 +227,6 @@
 			<styleUrl>#IconStyle0000</styleUrl>
 			<Point>
 				<coordinates>-116.917046491,32.51837464100004,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00014">
-			<name>EV658006</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. VALLE DEL SOL 8773 0 0 VALLE DEL SOL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.8335083059999,32.48324491400007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00015">
@@ -489,32 +411,6 @@
 				<coordinates>-117.020305476,32.52271242400008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00034">
-			<name>GY066008</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. FRAY JUNIPERO SERRA 6828 MISION DE LAS CALIFORNIAS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.905671964,32.50101006800003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00035">
 			<name>MN409000</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -539,32 +435,6 @@
 			<styleUrl>#IconStyle0000</styleUrl>
 			<Point>
 				<coordinates>-116.859291752,32.50698381400008,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00036">
-			<name>GY056001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. DE LOS LOBOS 0 LOS LOBOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.898718628,32.50275475500007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00037">
@@ -671,32 +541,6 @@
 				<coordinates>-116.972954737,32.53250993000006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00043">
-			<name>EV617929</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. REAL DE NAYARIT 23949 0 REAL DE SAN FRANCISCO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.848363451,32.48495698600004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00044">
 			<name>EL115206</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -779,6 +623,168 @@
 	<Folder>
 		<name>HECHOS</name>
 		<open>1</open>
+		<Placemark id="ID_00010">
+			<name>MN008010</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. EJERCITO TRIGARANTE 8237 MARIANO MATAMOROS NORTE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.8836599539999,32.49082486600003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>GY411012</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. MISION DE LORETO 0 LAS MISIONES</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.8965094599999,32.50146605000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>GY066008</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. FRAY JUNIPERO SERRA 6828 MISION DE LAS CALIFORNIAS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.905671964,32.50101006800003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>GY056001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. DE LOS LOBOS 0 LOS LOBOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.898718628,32.50275475500007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>EV658006</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. VALLE DEL SOL 8773 0 0 VALLE DEL SOL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.8335083059999,32.48324491400007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>EV617929</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. REAL DE NAYARIT 23949 0 REAL DE SAN FRANCISCO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>-116.848363451,32.48495698600004,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="ID_00021">
 			<name>SU289001</name>
 			<open>1</open>

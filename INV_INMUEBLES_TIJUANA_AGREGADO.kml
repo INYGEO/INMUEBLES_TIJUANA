@@ -6,23 +6,6 @@
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
 	<Style id="IconStyle000">
 		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.8</scale>
-		</LabelStyle>
-		<PolyStyle>
-			<color>ff000000</color>
-			<outline>0</outline>
-		</PolyStyle>
-	</Style>
-	<Style id="IconStyle0001">
-		<IconStyle>
 			<color>ffff0000</color>
 			<scale>1.1</scale>
 			<Icon>
@@ -42,6 +25,23 @@
 	</Style>
 	<Style id="IconStyle0000">
 		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle00000">
+		<IconStyle>
 			<color>ffff0000</color>
 			<scale>1.3</scale>
 			<Icon>
@@ -59,7 +59,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<Style id="IconStyle00000">
+	<Style id="IconStyle000000">
 		<IconStyle>
 			<color>ff00ffff</color>
 			<scale>1.3</scale>
@@ -76,17 +76,17 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="IconStyle004">
+	<StyleMap id="IconStyle0040">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#IconStyle0001</styleUrl>
+			<styleUrl>#IconStyle0000</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#IconStyle0000</styleUrl>
+			<styleUrl>#IconStyle000000</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="IconStyle0040">
+	<StyleMap id="IconStyle00400">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#IconStyle000</styleUrl>
@@ -98,6 +98,7 @@
 	</StyleMap>
 	<Folder>
 		<name>PENDIENTES</name>
+		<open>1</open>
 		<Placemark id="ID_00000">
 			<name>SU317004</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -2646,32 +2647,6 @@
 				<coordinates>-117.01069855,32.48880033600005,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00108">
-			<name>EV613003</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. REAL DE BAJA CALIFORNIA 24102 REAL DE SAN FRANCISCO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.845425577,32.48691547600004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00109">
 			<name>FD273901</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -2696,32 +2671,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.865430896,32.46480971100004,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00110">
-			<name>FD551004</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. LOS OLIVOS 22064 HACIENDA SANTA MARIA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8444605829999,32.46919954700007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00111">
@@ -3634,32 +3583,6 @@
 				<coordinates>-116.8980163429999,32.52618701200004,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00147">
-			<name>PR000001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. INSURGENTES TERCERA ETAPA RIO TIJUANA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.932541826,32.49609065400006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00148">
 			<name>KD250101</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -4490,32 +4413,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.928165157,32.52192247700003,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00193">
-			<name>FD131001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. FRESA 9762 EL FLORIDO 1a. Y 2a. SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.867017902,32.46509461300008,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00194">
@@ -5922,58 +5819,6 @@
 				<coordinates>-117.087965367,32.53048355400006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00249">
-			<name>FD529003</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. 21 1 CAÑADAS DEL FLORIDO II</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.859955799,32.46466222200007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00250">
-			<name>FD531003</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. 26 9814 CAÑADAS DEL FLORIDO II</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.854744618,32.46508594400007,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00251">
 			<name>FD526007</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -6544,32 +6389,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.836562617,32.50971786400004,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00273">
-			<name>EV603026</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. REAL DE SAN FRANCISCO 23450 REAL DE SAN FRANCISCO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8543923999999,32.48582894100008,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00274">
@@ -9198,58 +9017,6 @@
 				<coordinates>-116.819252641,32.47402274100006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00390">
-			<name>FV592002</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DE LAS NACIONES 26910 0 EL LAUREL II</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.819771159,32.46985589200006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00391">
-			<name>FV590008</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DE EUROPA 8766 0 EL LAUREL II</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8154437159999,32.47203767000008,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00392">
 			<name>FV589011</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -11044,32 +10811,6 @@
 				<coordinates>-116.925514408,32.53013369700005,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00471">
-			<name>FD566008</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. DE SANTA MARIA PONIENTE 10001 0 0 PASEOS DE SANTA MARIA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.84109885,32.46648406000003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00472">
 			<name>FD571009</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -12810,32 +12551,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.898062725,32.49592105700003,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00541">
-			<name>GY202005</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. INDIO AMERICANO 19620 4 A PASEOS DEL GUAYCURA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.891778873,32.49499479200006,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00542">
@@ -15984,58 +15699,6 @@
 				<coordinates>-117.031048576,32.48360994800004,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00667">
-			<name>GY042001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">CTO. MONTES CANTABRICOS 19002 LOMA DORADA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.911934351,32.50058104800007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00668">
-			<name>GY043001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. MONTE BLANCO 0 LOMA DORADA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.9104150589999,32.50165238700004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00669">
 			<name>GY020017</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -17544,58 +17207,6 @@
 				<coordinates>-116.838983264,32.45792745300002,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00728">
-			<name>FD663008</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">"C. DE LOS ABETOS 10761 0 PASEOS DEL VERGEL	"</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.839089572,32.45770290100006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00729">
-			<name>FD663009</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">"CTO. DE LOS ROBLES 23523 0 PASEOS DEL VERGEL	"</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.843653746,32.45712133300003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00730">
 			<name>FD663020</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19000,32 +18611,6 @@
 				<coordinates>-116.972954737,32.53250993000006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00786">
-			<name>EV617929</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. REAL DE NAYARIT 23949 0 REAL DE SAN FRANCISCO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.848363451,32.48495698600004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00787">
 			<name>EL115206</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19182,32 +18767,6 @@
 				<coordinates>-117.020305476,32.52271242400008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00797">
-			<name>GY066008</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. FRAY JUNIPERO SERRA 6828 MISION DE LAS CALIFORNIAS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.905671964,32.50101006800003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00798">
 			<name>MN409000</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19232,32 +18791,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.859291752,32.50698381400008,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00799">
-			<name>GY056001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. DE LOS LOBOS 0 LOS LOBOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.898718628,32.50275475500007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00800">
@@ -19390,32 +18923,6 @@
 				<coordinates>-116.779532307,32.46758249400006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00813">
-			<name>MN008010</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. EJERCITO TRIGARANTE 8237 MARIANO MATAMOROS NORTE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8836599539999,32.49082486600003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00814">
 			<name>VS002021</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19466,32 +18973,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.917046491,32.51837464100004,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00817">
-			<name>EV658006</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. VALLE DEL SOL 8773 0 0 VALLE DEL SOL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8335083059999,32.48324491400007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00818">
@@ -19572,32 +19053,6 @@
 				<coordinates>-117.107146438,32.51365734100006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00829">
-			<name>GY411012</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. MISION DE LORETO 0 LAS MISIONES</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8965094599999,32.50146605000003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00832">
 			<name>VV124037</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19627,6 +19082,115 @@
 	</Folder>
 	<Folder>
 		<name>HECHOS</name>
+		<open>1</open>
+		<Placemark id="ID_00813">
+			<name>MN008010</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. EJERCITO TRIGARANTE 8237 MARIANO MATAMOROS NORTE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.8836599539999,32.49082486600003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00829">
+			<name>GY411012</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. MISION DE LORETO 0 LAS MISIONES</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.8965094599999,32.50146605000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00817">
+			<name>EV658006</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. VALLE DEL SOL 8773 0 0 VALLE DEL SOL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.8335083059999,32.48324491400007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00273">
+			<name>EV603026</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. REAL DE SAN FRANCISCO 23450 REAL DE SAN FRANCISCO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.8543923999999,32.48582894100008,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="ID_00815">
 			<name>FD900095</name>
 			<open>1</open>
@@ -19649,7 +19213,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.8889566779999,32.45943612700006,0</coordinates>
 			</Point>
@@ -19676,7 +19240,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.875951292,32.45550076600006,0</coordinates>
 			</Point>
@@ -19703,7 +19267,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.914964839,32.44981154700002,0</coordinates>
 			</Point>
@@ -19730,7 +19294,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.944177736,32.46808936300005,0</coordinates>
 			</Point>
@@ -19757,7 +19321,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.986149348,32.43874465400006,0</coordinates>
 			</Point>
@@ -19784,7 +19348,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.9883884179999,32.48196523800004,0</coordinates>
 			</Point>
@@ -19811,7 +19375,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.985462985,32.48413969000006,0</coordinates>
 			</Point>
@@ -19838,7 +19402,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.068176996,32.45045449400004,0</coordinates>
 			</Point>
@@ -19865,7 +19429,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.041485987,32.43264530600004,0</coordinates>
 			</Point>
@@ -19892,7 +19456,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.050390728,32.44208640300008,0</coordinates>
 			</Point>
@@ -19919,7 +19483,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.031451298,32.48062077700007,0</coordinates>
 			</Point>
@@ -19946,7 +19510,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.066000615,32.48866537600003,0</coordinates>
 			</Point>
@@ -19973,7 +19537,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.069077287,32.49713344800006,0</coordinates>
 			</Point>
@@ -20000,7 +19564,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.064168169,32.43855766900003,0</coordinates>
 			</Point>
@@ -20027,7 +19591,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.056580041,32.43997500000006,0</coordinates>
 			</Point>
@@ -20054,7 +19618,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.061664132,32.44605697700007,0</coordinates>
 			</Point>
@@ -20081,7 +19645,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.062801784,32.44339854800006,0</coordinates>
 			</Point>
@@ -20108,7 +19672,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.058619993,32.44076191600004,0</coordinates>
 			</Point>
@@ -20135,7 +19699,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0673763349999,32.44394304400004,0</coordinates>
 			</Point>
@@ -20162,7 +19726,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0673763349999,32.44394304400004,0</coordinates>
 			</Point>
@@ -20189,7 +19753,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.068736341,32.43355404000005,0</coordinates>
 			</Point>
@@ -20216,7 +19780,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.068735732,32.43355507500007,0</coordinates>
 			</Point>
@@ -20243,7 +19807,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0687370639999,32.43355429800005,0</coordinates>
 			</Point>
@@ -20270,7 +19834,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.085987602,32.41922550200007,0</coordinates>
 			</Point>
@@ -20297,7 +19861,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0920959059999,32.41220136700008,0</coordinates>
 			</Point>
@@ -20324,7 +19888,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0673763349999,32.44394304400004,0</coordinates>
 			</Point>
@@ -20351,7 +19915,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.093267251,32.42230212300007,0</coordinates>
 			</Point>
@@ -20378,7 +19942,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.093270649,32.42232249900007,0</coordinates>
 			</Point>
@@ -20405,7 +19969,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.053547773,32.48623039500006,0</coordinates>
 			</Point>
@@ -20432,7 +19996,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0948375,32.42282780000005,0</coordinates>
 			</Point>
@@ -20459,7 +20023,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0759941219999,32.51044951300003,0</coordinates>
 			</Point>
@@ -20486,7 +20050,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.058445094,32.44704555300007,0</coordinates>
 			</Point>
@@ -20513,7 +20077,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.061664132,32.44605697700007,0</coordinates>
 			</Point>
@@ -20540,7 +20104,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0508245619999,32.45108515300007,0</coordinates>
 			</Point>
@@ -20567,7 +20131,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.061664132,32.44605697700007,0</coordinates>
 			</Point>
@@ -20594,7 +20158,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0419909829999,32.44493596800004,0</coordinates>
 			</Point>
@@ -20621,7 +20185,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.058512739,32.44686317600008,0</coordinates>
 			</Point>
@@ -20648,7 +20212,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.058445094,32.44704555300007,0</coordinates>
 			</Point>
@@ -20675,7 +20239,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.068546064,32.45110798800005,0</coordinates>
 			</Point>
@@ -20702,7 +20266,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.059475789,32.44753903100008,0</coordinates>
 			</Point>
@@ -20729,7 +20293,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.985045508,32.48769023800003,0</coordinates>
 			</Point>
@@ -20756,7 +20320,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0673763349999,32.44394304400004,0</coordinates>
 			</Point>
@@ -20783,7 +20347,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.023626238,32.44837461700007,0</coordinates>
 			</Point>
@@ -20810,7 +20374,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.002153842,32.46741797000004,0</coordinates>
 			</Point>
@@ -20837,7 +20401,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.99945726,32.47267400700002,0</coordinates>
 			</Point>
@@ -20864,7 +20428,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.00723677,32.46891151200003,0</coordinates>
 			</Point>
@@ -20891,7 +20455,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.068546064,32.45110798800005,0</coordinates>
 			</Point>
@@ -20918,7 +20482,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0344434,32.45642590000006,0</coordinates>
 			</Point>
@@ -20945,7 +20509,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.987803548,32.43690998800002,0</coordinates>
 			</Point>
@@ -20972,7 +20536,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.985509151,32.43844882300004,0</coordinates>
 			</Point>
@@ -20999,7 +20563,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.983351668,32.43814891700003,0</coordinates>
 			</Point>
@@ -21026,7 +20590,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.045615556,32.44850997100008,0</coordinates>
 			</Point>
@@ -21053,7 +20617,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.023657199,32.43421930000005,0</coordinates>
 			</Point>
@@ -21080,7 +20644,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.023543275,32.43439587100005,0</coordinates>
 			</Point>
@@ -21107,7 +20671,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.0497771889999,32.45031094800004,0</coordinates>
 			</Point>
@@ -21134,7 +20698,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.998578454,32.45245489700005,0</coordinates>
 			</Point>
@@ -21161,7 +20725,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.956094018,32.46779282400007,0</coordinates>
 			</Point>
@@ -21188,7 +20752,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.957143168,32.47089601300007,0</coordinates>
 			</Point>
@@ -21215,7 +20779,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-117.000199149,32.45907896000006,0</coordinates>
 			</Point>
@@ -21242,7 +20806,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.973518714,32.45019952900003,0</coordinates>
 			</Point>
@@ -21269,7 +20833,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.9222134999999,32.44779232000008,0</coordinates>
 			</Point>
@@ -21296,7 +20860,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.932726174,32.44069901400007,0</coordinates>
 			</Point>
@@ -21323,7 +20887,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.966979922,32.46252304600006,0</coordinates>
 			</Point>
@@ -21350,9 +20914,36 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.940471252,32.40655056400004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00108">
+			<name>EV613003</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. REAL DE BAJA CALIFORNIA 24102 REAL DE SAN FRANCISCO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.845425577,32.48691547600004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00045">
@@ -21377,7 +20968,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.9201392,32.41217340000003,0</coordinates>
 			</Point>
@@ -21404,7 +20995,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.92139976,32.41414415400004,0</coordinates>
 			</Point>
@@ -21431,7 +21022,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.925907217,32.41180435400003,0</coordinates>
 			</Point>
@@ -21458,7 +21049,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.965957825,32.42847047200007,0</coordinates>
 			</Point>
@@ -21485,7 +21076,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.965132754,32.42508337400005,0</coordinates>
 			</Point>
@@ -21512,7 +21103,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.96471278,32.41169564700004,0</coordinates>
 			</Point>
@@ -21539,7 +21130,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.8756529999999,32.45895630000007,0</coordinates>
 			</Point>
@@ -21566,7 +21157,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.886276736,32.45852611100003,0</coordinates>
 			</Point>
@@ -21593,7 +21184,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.9566286689999,32.48545105300008,0</coordinates>
 			</Point>
@@ -21620,7 +21211,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.957113598,32.48657401800006,0</coordinates>
 			</Point>
@@ -21647,7 +21238,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.95858808,32.48468556400007,0</coordinates>
 			</Point>
@@ -21674,7 +21265,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.960211768,32.48473305800007,0</coordinates>
 			</Point>
@@ -21701,7 +21292,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.953181031,32.39200403300003,0</coordinates>
 			</Point>
@@ -21728,7 +21319,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.935229955,32.38761452400007,0</coordinates>
 			</Point>
@@ -21755,7 +21346,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.937308468,32.37369189600003,0</coordinates>
 			</Point>
@@ -21782,7 +21373,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.937308468,32.37369189600003,0</coordinates>
 			</Point>
@@ -21809,9 +21400,36 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.940512476,32.37279166100006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00786">
+			<name>EV617929</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. REAL DE NAYARIT 23949 0 REAL DE SAN FRANCISCO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.848363451,32.48495698600004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00124">
@@ -21836,9 +21454,414 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#IconStyle004</styleUrl>
+			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.938939942,32.37250212100002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00193">
+			<name>FD131001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. FRESA 9762 EL FLORIDO 1a. Y 2a. SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.867017902,32.46509461300008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00249">
+			<name>FD529003</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. 21 1 CAÑADAS DEL FLORIDO II</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.859955799,32.46466222200007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00250">
+			<name>FD531003</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. 26 9814 CAÑADAS DEL FLORIDO II</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.854744618,32.46508594400007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00110">
+			<name>FD551004</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. LOS OLIVOS 22064 HACIENDA SANTA MARIA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.8444605829999,32.46919954700007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00471">
+			<name>FD566008</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. DE SANTA MARIA PONIENTE 10001 0 0 PASEOS DE SANTA MARIA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.84109885,32.46648406000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00728">
+			<name>FD663008</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">"C. DE LOS ABETOS 10761 0 PASEOS DEL VERGEL	"</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.839089572,32.45770290100006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00729">
+			<name>FD663009</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">"CTO. DE LOS ROBLES 23523 0 PASEOS DEL VERGEL	"</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.843653746,32.45712133300003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00391">
+			<name>FV590008</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DE EUROPA 8766 0 EL LAUREL II</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.8154437159999,32.47203767000008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00390">
+			<name>FV592002</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DE LAS NACIONES 26910 0 EL LAUREL II</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.819771159,32.46985589200006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00667">
+			<name>GY042001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">CTO. MONTES CANTABRICOS 19002 LOMA DORADA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.911934351,32.50058104800007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00668">
+			<name>GY043001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. MONTE BLANCO 0 LOMA DORADA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.9104150589999,32.50165238700004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00799">
+			<name>GY056001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. DE LOS LOBOS 0 LOS LOBOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.898718628,32.50275475500007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00797">
+			<name>GY066008</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. FRAY JUNIPERO SERRA 6828 MISION DE LAS CALIFORNIAS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.905671964,32.50101006800003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00541">
+			<name>GY202005</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. INDIO AMERICANO 19620 4 A PASEOS DEL GUAYCURA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.891778873,32.49499479200006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00147">
+			<name>PR000001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. INSURGENTES TERCERA ETAPA RIO TIJUANA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.932541826,32.49609065400006,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
