@@ -53,8 +53,6 @@
 		<LabelStyle>
 			<scale>0.8</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -72,8 +70,6 @@
 		<LabelStyle>
 			<scale>0.8</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -97,34 +93,7 @@
 	</Style>
 	<Folder id="FeatureLayer0">
 		<name>PENDIENTES</name>
-		<open>1</open>
 		<Snippet maxLines="0"></Snippet>
-		<Placemark id="ID_00003">
-			<name>MZ203022</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. VIRTUD 22397 VALLE VERDE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.869282685,32.51408607100007,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00005">
 			<name>PC058001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -281,58 +250,6 @@
 				<coordinates>-117.001831024,32.50256095500004,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00026">
-			<name>MZ422001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DE LOS ABEDULES 22541 0 LOMAS TERRABELLA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.882427443,32.53002931700007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00029">
-			<name>FV770001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">CTO. H. XVII AYUNTAMIENTO 29954 0 TIJUANA PROGRESO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.779532307,32.46758249400006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00030">
 			<name>RG023001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -409,32 +326,6 @@
 			<styleUrl>#IconStyle0000</styleUrl>
 			<Point>
 				<coordinates>-117.020305476,32.52271242400008,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00035">
-			<name>MN409000</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. PASEO VILLA DEL REAL 23500 VILLA FONTANA 3RA. SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0000</styleUrl>
-			<Point>
-				<coordinates>-116.859291752,32.50698381400008,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00037">
@@ -593,8 +484,12 @@
 				<coordinates>-116.912497249,32.54184709000003,0</coordinates>
 			</Point>
 		</Placemark>
+	</Folder>
+	<Folder>
+		<name>HECHOS</name>
 		<Placemark id="ID_00049">
 			<name>VC031001</name>
+			<open>1</open>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
 <head>
@@ -619,10 +514,114 @@
 				<coordinates>-116.741282099,32.50627074600004,0</coordinates>
 			</Point>
 		</Placemark>
-	</Folder>
-	<Folder>
-		<name>HECHOS</name>
-		<open>1</open>
+		<Placemark id="ID_00026">
+			<name>MZ422001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DE LOS ABEDULES 22541 0 LOMAS TERRABELLA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0000</styleUrl>
+			<Point>
+				<coordinates>-116.882427443,32.53002931700007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>MZ203022</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. VIRTUD 22397 VALLE VERDE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0000</styleUrl>
+			<Point>
+				<coordinates>-116.869282685,32.51408607100007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>MN409000</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. PASEO VILLA DEL REAL 23500 VILLA FONTANA 3RA. SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0000</styleUrl>
+			<Point>
+				<coordinates>-116.859291752,32.50698381400008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>FV770001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">CTO. H. XVII AYUNTAMIENTO 29954 0 TIJUANA PROGRESO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0000</styleUrl>
+			<Point>
+				<coordinates>-116.779532307,32.46758249400006,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="ID_00010">
 			<name>MN008010</name>
 			<open>1</open>

@@ -16,8 +16,6 @@
 		<LabelStyle>
 			<scale>0.8</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -52,8 +50,6 @@
 		<LabelStyle>
 			<scale>0.8</scale>
 		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -98,7 +94,6 @@
 	</StyleMap>
 	<Folder>
 		<name>PENDIENTES</name>
-		<open>1</open>
 		<Placemark id="ID_00000">
 			<name>SU317004</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -1893,58 +1888,6 @@
 				<coordinates>-116.940512476,32.37279166100006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00078">
-			<name>BZ085035</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DEL CAMPO 4583 MARGARITA RESIDENCIAL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.779085241,32.52108164300006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00079">
-			<name>BZ086042</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DEL CAMPO 4582 MARGARITA RESIDENCIAL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.779085241,32.52108164300006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00080">
 			<name>CX204001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -3087,32 +3030,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.110597551,32.51811228000003,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00128">
-			<name>BZ087061</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DEL CAMPO 4421 MARGARITA RESIDENCIAL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.779085241,32.52108164300006,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00129">
@@ -5351,32 +5268,6 @@
 				<coordinates>-116.908035549,32.49998996900007,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00231">
-			<name>BZ088031</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DEL CAMPO MARGARITA RESIDENCIAL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.778468236,32.52036822500003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00232">
 			<name>SV053001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -5401,58 +5292,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.0734897739999,32.48205787100005,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00233">
-			<name>BZ361026</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. VALLE BONITO 5700 VISTA DEL VALLE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.79526507,32.50263309000007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00234">
-			<name>BZ364011</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. VALLE ENCANTADO 1 VISTA DEL VALLE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.796227057,32.50222977600004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00235">
@@ -5505,32 +5344,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.8348997,32.51320597300003,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00237">
-			<name>BZ901006</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. PASEO DEL BOSQUE 25195 VILLA RESIDENCIAL DEL BOSQU</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.840043054,32.50714802300007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00238">
@@ -6467,32 +6280,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.8074679219999,32.48752333400006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00277">
-			<name>BZ149001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. LOMAS DE LA MISION 27351 LOMAS DEL VALLE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.806194018,32.48554531700006,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00278">
@@ -7665,58 +7452,6 @@
 				<coordinates>-116.872816798,32.53550450900008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00337">
-			<name>MZ791018</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. CASUARINAS 22866 0 RIBERA DEL BOSQUE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8700938919999,32.53559592000005,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00338">
-			<name>MZ796001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. CASUARINAS 22875 0 RIBERA DEL BOSQUE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.868873211,32.53569157800007,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00339">
 			<name>KC080914</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -7914,32 +7649,6 @@
 <table>
 
 <tr><td style="white-space: nowrap;">BLVD. PASEO DEL CAMPO 5443 PARAJES DEL VALLE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.737822137,32.51409964300007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00347">
-			<name>VC103001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. PASEO DEL CAMPO 5501 PARAJES DEL VALLE</td></tr>
 
 </table>
 
@@ -8835,32 +8544,6 @@
 				<coordinates>-116.740112327,32.50738893200003,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00383">
-			<name>VC023001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. DEL VALLE 35001 VILLA DEL CAMPO SEGUNDA SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.736309357,32.50798754900006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00384">
 			<name>VC021013</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -9457,58 +9140,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.919777777,32.44555410000004,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00409">
-			<name>VC005001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DEL ALAMO 35501 0 VILLA DEL CAMPO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.732137328,32.51409806000004,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00410">
-			<name>VC009001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. PASEO DEL CAMPO 5802 0 VILLA DEL CAMPO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.735979931,32.51315962100006,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00411">
@@ -16375,32 +16006,6 @@
 				<coordinates>-116.922053615,32.51081169300005,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00695">
-			<name>MN329001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. ZARAGOZA 23012 VILLA FONTANA 1RA. SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.868965103,32.51267825700006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00696">
 			<name>MN331012</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -16451,32 +16056,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.87005423,32.50956190900007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00698">
-			<name>MN363001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. VENECIA 3755 VILLA FONTANA 1RA. SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.8763798959999,32.51042393300003,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00699">
@@ -18221,32 +17800,6 @@
 				<coordinates>-116.880446767,32.53283455000008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00770">
-			<name>MZ427012</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DE LAS ACACIAS 22702 LOMAS TERRABELLA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.878765197,32.53109568300005,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00771">
 			<name>MZ429001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -18663,32 +18216,6 @@
 				<coordinates>-116.912497249,32.54184709000003,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00792">
-			<name>VC031001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. DEL VALLE 34701 VILLA DEL CAMPO SEGUNDA SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.741282099,32.50627074600004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00793">
 			<name>RG023001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -18765,32 +18292,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.020305476,32.52271242400008,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00798">
-			<name>MN409000</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. PASEO VILLA DEL REAL 23500 VILLA FONTANA 3RA. SECCION</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.859291752,32.50698381400008,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00800">
@@ -18871,58 +18372,6 @@
 				<coordinates>-117.001831024,32.50256095500004,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00809">
-			<name>MZ422001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DE LOS ABEDULES 22541 0 LOMAS TERRABELLA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.882427443,32.53002931700007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00812">
-			<name>FV770001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">CTO. H. XVII AYUNTAMIENTO 29954 0 TIJUANA PROGRESO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.779532307,32.46758249400006,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00814">
 			<name>VS002021</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19001,32 +18450,6 @@
 				<coordinates>-117.107182237,32.53241113600006,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00826">
-			<name>MZ203022</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. VIRTUD 22397 VALLE VERDE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.869282685,32.51408607100007,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00828">
 			<name>PC058001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -19082,7 +18505,6 @@
 	</Folder>
 	<Folder>
 		<name>HECHOS</name>
-		<open>1</open>
 		<Placemark id="ID_00813">
 			<name>MN008010</name>
 			<open>1</open>
@@ -21862,6 +21284,600 @@
 			<styleUrl>#IconStyle00400</styleUrl>
 			<Point>
 				<coordinates>-116.932541826,32.49609065400006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>BZ085035</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DEL CAMPO 4583 MARGARITA RESIDENCIAL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.779085241,32.52108164300006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>BZ086042</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DEL CAMPO 4582 MARGARITA RESIDENCIAL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.779085241,32.52108164300006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00128">
+			<name>BZ087061</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DEL CAMPO 4421 MARGARITA RESIDENCIAL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.779085241,32.52108164300006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00231">
+			<name>BZ088031</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DEL CAMPO MARGARITA RESIDENCIAL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.778468236,32.52036822500003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00277">
+			<name>BZ149001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. LOMAS DE LA MISION 27351 LOMAS DEL VALLE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.806194018,32.48554531700006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00233">
+			<name>BZ361026</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. VALLE BONITO 5700 VISTA DEL VALLE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.79526507,32.50263309000007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00234">
+			<name>BZ364011</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. VALLE ENCANTADO 1 VISTA DEL VALLE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.796227057,32.50222977600004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00237">
+			<name>BZ901006</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. PASEO DEL BOSQUE 25195 VILLA RESIDENCIAL DEL BOSQU</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.840043054,32.50714802300007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00812">
+			<name>FV770001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">CTO. H. XVII AYUNTAMIENTO 29954 0 TIJUANA PROGRESO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.779532307,32.46758249400006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00695">
+			<name>MN329001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. ZARAGOZA 23012 VILLA FONTANA 1RA. SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.868965103,32.51267825700006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00698">
+			<name>MN363001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. VENECIA 3755 VILLA FONTANA 1RA. SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.8763798959999,32.51042393300003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00798">
+			<name>MN409000</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. PASEO VILLA DEL REAL 23500 VILLA FONTANA 3RA. SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.859291752,32.50698381400008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00826">
+			<name>MZ203022</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. VIRTUD 22397 VALLE VERDE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.869282685,32.51408607100007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00809">
+			<name>MZ422001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DE LOS ABEDULES 22541 0 LOMAS TERRABELLA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.882427443,32.53002931700007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00770">
+			<name>MZ427012</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DE LAS ACACIAS 22702 LOMAS TERRABELLA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.878765197,32.53109568300005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00337">
+			<name>MZ791018</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. CASUARINAS 22866 0 RIBERA DEL BOSQUE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.8700938919999,32.53559592000005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00338">
+			<name>MZ796001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. CASUARINAS 22875 0 RIBERA DEL BOSQUE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.868873211,32.53569157800007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00409">
+			<name>VC005001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DEL ALAMO 35501 0 VILLA DEL CAMPO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.732137328,32.51409806000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00410">
+			<name>VC009001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. PASEO DEL CAMPO 5802 0 VILLA DEL CAMPO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.735979931,32.51315962100006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00383">
+			<name>VC023001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. DEL VALLE 35001 VILLA DEL CAMPO SEGUNDA SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.736309357,32.50798754900006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00792">
+			<name>VC031001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. DEL VALLE 34701 VILLA DEL CAMPO SEGUNDA SECCION</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.741282099,32.50627074600004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00347">
+			<name>VC103001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. PASEO DEL CAMPO 5501 PARAJES DEL VALLE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle0040</styleUrl>
+			<Point>
+				<coordinates>-116.737822137,32.51409964300007,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
