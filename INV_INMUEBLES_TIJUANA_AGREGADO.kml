@@ -4,23 +4,6 @@
 	<name>INV_INMUEBLES_TIJUANA_AGREGADO</name>
 	<open>1</open>
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
-	<Style id="IconStyle000">
-		<IconStyle>
-			<color>ffff0000</color>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.8</scale>
-		</LabelStyle>
-		<PolyStyle>
-			<color>ff000000</color>
-			<outline>0</outline>
-		</PolyStyle>
-	</Style>
 	<Style id="IconStyle0000">
 		<IconStyle>
 			<color>ff00ffff</color>
@@ -41,7 +24,7 @@
 	<Style id="IconStyle00000">
 		<IconStyle>
 			<color>ffff0000</color>
-			<scale>1.3</scale>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
 			</Icon>
@@ -50,6 +33,8 @@
 		<LabelStyle>
 			<scale>0.8</scale>
 		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 		<PolyStyle>
 			<color>ff000000</color>
 			<outline>0</outline>
@@ -72,6 +57,25 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
+	<Style id="IconStyle0000000">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
 	<StyleMap id="IconStyle0040">
 		<Pair>
 			<key>normal</key>
@@ -85,11 +89,11 @@
 	<StyleMap id="IconStyle00400">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#IconStyle000</styleUrl>
+			<styleUrl>#IconStyle00000</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#IconStyle00000</styleUrl>
+			<styleUrl>#IconStyle0000000</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Folder>
@@ -3006,32 +3010,6 @@
 				<coordinates>-116.938518514,32.37260570800004,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00127">
-			<name>PT131001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DE LA BRISA 1192 PLAYAS DE TIJUANA SECCION EL DORADO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.110597551,32.51811228000003,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00129">
 			<name>SU389005</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -4954,32 +4932,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.003624051,32.47107287900008,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00219">
-			<name>RW069001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. MIRAFLORES 0 EL RUBI</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.031228711,32.48732223200005,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00220">
@@ -10104,58 +10056,6 @@
 				<coordinates>-116.98833546,32.53903957100005,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00453">
-			<name>PT192001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DEL GRANITO 0 PLAYAS DE TIJUANA SECCION EL DORADO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.111613104,32.51862902200003,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00454">
-			<name>PT193001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. DEL AIRE 0 PLAYAS DE TIJUANA SECCION EL DORADO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.110797541,32.51635159300002,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00455">
 			<name>VL010001</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -10232,58 +10132,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.8702893719999,32.46588795800005,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00463">
-			<name>IB023001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">BLVD. LOMAS CAMPESTRE 5487 LOMAS DE AGUA CALIENTE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.996257669,32.49788087600007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00464">
-			<name>OL068001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. PUERTOS DEL SUR 15702 LOMAS HIPODROMO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.991978401,32.49614566600007,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00465">
@@ -10598,32 +10446,6 @@
 				<coordinates>-116.943325122,32.40478339900005,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00480">
-			<name>AL014001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. MAR BALTICO 288 ALEMAN</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.063657512,32.53742475200005,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00481">
 			<name>AV001002</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -10934,32 +10756,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.0914396749999,32.52347934400007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00493">
-			<name>MO904001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. RAMOS MILLAN 0 MORELOS</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.0348243829999,32.52163904700006,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00494">
@@ -14444,58 +14240,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-116.863776781,32.49538007600006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00631">
-			<name>CF867011</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. DE LAS BUGAMBILIAS 6112 JARDINES DE AGUA CALIENTE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.9805522999999,32.49238550000007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00632">
-			<name>CF867026</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. DE LAS ROSAS 6011 JARDINES DE AGUA CALIENTE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.9783315,32.49273780000004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00635">
@@ -18242,32 +17986,6 @@
 				<coordinates>-117.018944638,32.53266286500008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00794">
-			<name>ZC019002</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. 2A. BENITO JUAREZ 8099 ZONA CENTRO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.0389658029999,32.53492253900004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00795">
 			<name>MR513006</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -18292,84 +18010,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.020305476,32.52271242400008,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00800">
-			<name>IN026001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. ALLENDE 7555 INDEPENDENCIA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.0435622209999,32.52646830300006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00802">
-			<name>AI064004</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. CUENCA 20341 PORTICOS DEL LAGO</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.921674573,32.51015038700007,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00808">
-			<name>IB047001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">C. LOMA BONITA 11151 LOMAS DE AGUA CALIENTE</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.001831024,32.50256095500004,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00814">
@@ -18398,32 +18038,6 @@
 				<coordinates>-116.934803326,32.52802116700008,0</coordinates>
 			</Point>
 		</Placemark>
-		<Placemark id="ID_00816">
-			<name>MP155010</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">PSO. MARSELLA 2801 0 URBIQUINTA MARSELLA</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-116.917046491,32.51837464100004,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark id="ID_00818">
 			<name>PC262045</name>
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -18448,32 +18062,6 @@
 			<styleUrl>#IconStyle0040</styleUrl>
 			<Point>
 				<coordinates>-117.107182237,32.53241113600006,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark id="ID_00828">
-			<name>PC058001</name>
-			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-</head>
-
-<body>
-
-<table>
-
-<tr><td style="white-space: nowrap;">AVE. COSTA CORONADO 0 COSTA CORONADO RESIDENCIAL</td></tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-			<styleUrl>#IconStyle0040</styleUrl>
-			<Point>
-				<coordinates>-117.107146438,32.51365734100006,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark id="ID_00832">
@@ -18505,6 +18093,438 @@
 	</Folder>
 	<Folder>
 		<name>HECHOS</name>
+		<Placemark id="ID_00794">
+			<name>ZC019002</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. 2A. BENITO JUAREZ 8099 ZONA CENTRO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.0389658029999,32.53492253900004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00219">
+			<name>RW069001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. MIRAFLORES 0 EL RUBI</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.031228711,32.48732223200005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00454">
+			<name>PT193001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DEL AIRE 0 PLAYAS DE TIJUANA SECCION EL DORADO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.110797541,32.51635159300002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00453">
+			<name>PT192001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. DEL GRANITO 0 PLAYAS DE TIJUANA SECCION EL DORADO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.111613104,32.51862902200003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00127">
+			<name>PT131001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DE LA BRISA 1192 PLAYAS DE TIJUANA SECCION EL DORADO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.110597551,32.51811228000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00828">
+			<name>PC058001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. COSTA CORONADO 0 COSTA CORONADO RESIDENCIAL</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.107146438,32.51365734100006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00464">
+			<name>OL068001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. PUERTOS DEL SUR 15702 LOMAS HIPODROMO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.991978401,32.49614566600007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00816">
+			<name>MP155010</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. MARSELLA 2801 0 URBIQUINTA MARSELLA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.917046491,32.51837464100004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00493">
+			<name>MO904001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. RAMOS MILLAN 0 MORELOS</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.0348243829999,32.52163904700006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00800">
+			<name>IN026001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. ALLENDE 7555 INDEPENDENCIA</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.0435622209999,32.52646830300006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00808">
+			<name>IB047001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. LOMA BONITA 11151 LOMAS DE AGUA CALIENTE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.001831024,32.50256095500004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00463">
+			<name>IB023001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">BLVD. LOMAS CAMPESTRE 5487 LOMAS DE AGUA CALIENTE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.996257669,32.49788087600007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00632">
+			<name>CF867026</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">AVE. DE LAS ROSAS 6011 JARDINES DE AGUA CALIENTE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.9783315,32.49273780000004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00631">
+			<name>CF867011</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. DE LAS BUGAMBILIAS 6112 JARDINES DE AGUA CALIENTE</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.9805522999999,32.49238550000007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00480">
+			<name>AL014001</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">C. MAR BALTICO 288 ALEMAN</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-117.063657512,32.53742475200005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00802">
+			<name>AI064004</name>
+			<open>1</open>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;">PSO. CUENCA 20341 PORTICOS DEL LAGO</td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00400</styleUrl>
+			<Point>
+				<coordinates>-116.921674573,32.51015038700007,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="ID_00813">
 			<name>MN008010</name>
 			<open>1</open>
