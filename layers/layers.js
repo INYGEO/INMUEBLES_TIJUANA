@@ -41,12 +41,10 @@ var lyr_PUNTOS_total_2 = new ol.layer.Vector({
                 interactive: false,
     title: 'PUNTOS_total<br />\
     <img src="styles/legend/PUNTOS_total_2_0.png" /> BOMBEROS<br />\
-    <img src="styles/legend/PUNTOS_total_2_1.png" /> CENTRO COMUNITARIO<br />\
-    <img src="styles/legend/PUNTOS_total_2_2.png" /> ESCUELA<br />\
-    <img src="styles/legend/PUNTOS_total_2_3.png" /> IGLESIA<br />\
-    <img src="styles/legend/PUNTOS_total_2_4.png" /> MERCADO<br />\
-    <img src="styles/legend/PUNTOS_total_2_5.png" /> PARQUE<br />\
-    <img src="styles/legend/PUNTOS_total_2_6.png" /> FARMACIA<br />' });
+    <img src="styles/legend/PUNTOS_total_2_1.png" /> ESCUELA<br />\
+    <img src="styles/legend/PUNTOS_total_2_2.png" /> MERCADO<br />\
+    <img src="styles/legend/PUNTOS_total_2_3.png" /> PARQUE<br />\
+    <img src="styles/legend/PUNTOS_total_2_4.png" /> FARMACIA<br />' });
 var format_INMUEBLES_3 = new ol.format.GeoJSON();
 var features_INMUEBLES_3 = format_INMUEBLES_3.readFeatures(json_INMUEBLES_3, 
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});

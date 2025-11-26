@@ -20,22 +20,6 @@ function categories_PUNTOS_total_2(feature, value, size, resolution, labelText,
                               bufferWidth)
     })];
                     break;
-case 'CENTRO COMUNITARIO':
-                    return [ new ol.style.Style({
-        image: new ol.style.Icon({
-                  imgSize: [580, 580],
-                  scale: 0.06551724137931035,
-                  anchor: [290.0, 0],
-                  anchorXUnits: "pixels",
-                  anchorYUnits: "pixels",
-                  rotation: 0.0,
-                  src: "styles/accommodation_bed_and_breakfast.svg"
-            }),
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement, bufferColor,
-                              bufferWidth)
-    })];
-                    break;
 case 'ESCUELA':
                     return [ new ol.style.Style({
         image: new ol.style.Icon({
@@ -46,22 +30,6 @@ case 'ESCUELA':
                   anchorYUnits: "pixels",
                   rotation: 0.0,
                   src: "styles/shopping_book.svg"
-            }),
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement, bufferColor,
-                              bufferWidth)
-    })];
-                    break;
-case 'IGLESIA':
-                    return [ new ol.style.Style({
-        image: new ol.style.Icon({
-                  imgSize: [580, 580],
-                  scale: 0.06551724137931035,
-                  anchor: [290.0, 290.0],
-                  anchorXUnits: "pixels",
-                  anchorYUnits: "pixels",
-                  rotation: 0.0,
-                  src: "styles/place_of_worship_christian3.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -87,13 +55,13 @@ case 'MERCADO':
 case 'PARQUE':
                     return [ new ol.style.Style({
         image: new ol.style.Icon({
-                  imgSize: [579.997, 579.997],
-                  scale: 0.0655175802633462,
-                  anchor: [289.9985, 289.9985],
+                  imgSize: [580, 580],
+                  scale: 0.06551724137931035,
+                  anchor: [290.0, 290.0],
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/tree.svg"
+                  src: "styles/landuse_coniferous_and_deciduous.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -103,13 +71,13 @@ case 'PARQUE':
 case 'FARMACIA':
                     return [ new ol.style.Style({
         image: new ol.style.Icon({
-                  imgSize: [579.997, 579.997],
-                  scale: 0.0655175802633462,
-                  anchor: [289.9985, 289.9985],
+                  imgSize: [580, 580],
+                  scale: 0.06551724137931035,
+                  anchor: [290.0, 290.0],
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/cross.svg"
+                  src: "styles/health_hospital_emergency.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
