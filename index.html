@@ -313,7 +313,7 @@
     }
 
     function cargarExcelDesdeGitHub() {
-      const url = 'https://raw.githubusercontent.com/INYGEO/LIDAR_TIJUANA/main/INMUEBLES_15.xlsx';
+      const url = 'https://raw.githubusercontent.com/INYGEO/INMUEBLES_TIJUANA/main/INMUEBLES_8.xlsx';
       fetch(url)
         .then(response => response.arrayBuffer())
         .then(data => {
@@ -349,7 +349,7 @@
     }
 
     function descargarTabla() {
-      const url = 'https://raw.githubusercontent.com/INYGEO/LIDAR_TIJUANA/main/INMUEBLES_15.xlsx';
+      const url = 'https://raw.githubusercontent.com/INYGEO/INMUEBLES_TIJUANA/main/INMUEBLES_8.xlsx';
       fetch(url)
         .then(response => response.blob())
         .then(blob => {
@@ -368,5 +368,6 @@
   </script>
 </body>
 </html>
+
 
 
